@@ -1,0 +1,11 @@
+Flask
+Flask-CORS
+pandas
+numpy
+scikit-learn
+sqlalchemy
+psycopg2-binary 
+requests
+beautifulsoup4
+python-dotenv
+google-generativeai 
